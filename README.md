@@ -260,8 +260,3 @@ So, we successfully obtained a valid signature for the message "flag".
 -   [Euler's theorem](https://en.wikipedia.org/wiki/Euler%27s_theorem)
 
 -   University of Piraeus 🦆 - Mobile and Wireless Communications Security 🔐
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
